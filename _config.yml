@@ -1,5 +1,5 @@
-title: Sample Works
-description: Portfolio of Rey Torrecampo
+title: Sample Works for Software Development
+description: Portfolio of Rey Torrecampo for Software Development
 baseurl: "" # Leave blank if deploying to root of GitHub Pages
 url: "https://renece153.github.io"
 remote_theme: pages-themes/primer@v0.6.0
@@ -20,7 +20,7 @@ author:
 social:
   linkedin: https://www.linkedin.com/in/rey-lawrence-torrecampo-ece/
   github: https://github.com/renece153
-  website: https://renece153.github.io/portfolio/
+  website: https://renece153.github.io/developer_portfolio/
 
 # Navigation (optional)
 nav:
