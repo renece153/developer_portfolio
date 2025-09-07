@@ -33,43 +33,34 @@ ZIP File containing all the code for this project. File details are seen below:
 <pre>
 ├── lib
 ├── python_scripts
-  ├── automated_run.py
-  ├── local_db_connection.py
-  ├── log_info.py
-  ├── mailer.py
-  ├── mysql_connector_class.py
-  ├── mysql_extract_data.py
-  ├── oracle_extract_data.py
-  ├── pg_extract_data.py
-  ├── py_open_sql_scripts.py
-  ├── pydbc_initial_con.py
-  ├── python_connector_class.py
-  ├── python_db_connection.py
-  ├── run_manual.py
-  ├── run_script.py
-  ├── sql_server_extract_data.py
 ├── sql_scripts
   ├── local database
-    ├── all triggers.sql
-    ├── all_stored_procedure_&_function.sql
-    ├── all_tables.sql
-    ├── all_view_tables.sql
   ├── sql_scripts_target_db
     ├── my-sql
-      ├── install-mysql-sp.sql
     ├── postgres
-      ├── install-db-procedure.sql
     ├── sql-server
-      ├── install-sp-dbims-check-installed-sp.sql
-      ├── install-sp-dbims-check-sql-agent-and-jobs.sql
-      ├── install-sp-dbims-extract-backup-info.sql
-      ├── install-sp-dbims-extract-log-and-data-info.sql
-      ├── install-sp-dbims-extract-memory-capacity-sp.sql
-      ├── install-sp-display-connection-details.sql
-      ├── install-sp-extract-growth-rate.sql
 ├── webpage
+  ├── css
+  ├── Webpages
+  ├── Images
+  ├── Javascripts
+  ├── PHP applications
 </pre>
 
+Details:
+- Python Scripts: Interact with SQL and PHP to: send notification email using mailgun, perform backend reading and ETL between target database and cloud database (MySQL).
+- SQL Scripts:
+  > Local Database: Contains all Triggers, View, Functions and Stored Procedure running in the cloud database
+  > SQL Script Target: Database Statistics and Health are monitored by collecting data; Python Script triggers stored procedure
+    1. MySQL: Installs stored procedure in MySQL Database
+    2. Postgres: Installs stored procedure in PG Database
+    3. SQL Server: Installs several stored procedure in SQL Server Database
+- Webpage: Contains the front-end of the system that is visible in the cloud
+  > CSS: All css files associated in the website
+  > Webpages: All HTML files associated in the website
+  > Images: All images that will be reference by the website
+  > Javascript: JS Script that performs real-time operation such as validation before writing it in the local database
+  > PHP: Connector between HTML and Java to local database (Source)
 
 ---
 ## Other Academic Projects
