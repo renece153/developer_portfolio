@@ -18,9 +18,7 @@ Major Projects are complex system integrations that requires at least two differ
 
 ---
 ### 🗃️ Management Information System for Database Monitoring
-- **Summary:**
-
-Modify and retrofit inventory management systems to function with relational database systems through a web interface designed for operation on a Windows server (deployed via AWS). The programming languages involved include SQL, Python, JavaScript, PHP, CSS, and HTML. Regrettably, the system was deactivated due to accumulating expenses. However, all documentation remains accessible below.
+- **Summary:** Modify and retrofit inventory management systems to function with relational database systems through a web interface designed for operation on a Windows server (deployed via AWS). The programming languages involved include SQL, Python, JavaScript, PHP, CSS, and HTML. Regrettably, the system was deactivated due to accumulating expenses. However, all documentation remains accessible below.
 
 - **Skills:** _SQL, Python, JavaScript, PHP, HTML/CSS, AWS, Cloud, Modular, OOP, Web Development_
 
@@ -72,9 +70,7 @@ These projects are done in short term and are here to show my ability to code in
 ---
 
 ### 🏥 Health Information Management System
-- **Summary:**
-
-A mobile-accessible API system using AWS Lambda and stored in MS SQL Server. Uses AWS lambda to collect and display data.
+- **Summary:** A mobile-accessible API system using AWS Lambda and stored in MS SQL Server. Uses AWS lambda to collect and display data.
 
 - **Skills:** _ API Development, Cloud Integration, Mobile Backend, _AWS Lambda_
 
@@ -89,21 +85,24 @@ ZIP File containing all the code for this project.
 ---
 
 ### 🤖 Telegram Bot Integration
-- **Summary:**
-Hosted on an AWS EC2 instance, enabling interaction with a MySQL database. It also interfaces with a Telegram Bot and utilizes the Twilio and Mailgun APIs for sending text messages and emails, respectively. The server was disabled, but documentation and demonstration remain accessible.
+- **Summary:** Hosted on an AWS EC2 instance, enabling interaction with a MySQL database. It also interfaces with a Telegram Bot and utilizes the Twilio and Mailgun APIs for sending text messages and emails, respectively. The server was disabled, but documentation and demonstration remain accessible.
 
 - **Skills:** _Bot Development, API Integration, Cloud Deployment, Python, AWS EC2, MySQL, Twilio, Mailgun_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oOTjHrp3N9Q?si=caJDTghAOuX7fwg4" frameborder="0" allowfullscreen></iframe>
+<div alignment="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/oOTjHrp3N9Q?si=caJDTghAOuX7fwg4" frameborder="0" allowfullscreen></iframe> </div>
+
+---
+### 🤖 BP Diary 
+- **Summary:** A website that uses CRUD property to Insert, Update and Delete data in Postgres Database using C#. This collects data from the front-end and provides a report.
+
+- **Skills:** _PostgresSQL, MVC, OOP_
+
+🔗 [Github Repository](https://github.com/renece153/BPDiary_Final)
 
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, SQL, JavaScript, PHP, HTML/CSS
+- **Languages:** Python, SQL, JavaScript, PHP, HTML/CSS, ASP.NET
 - **Databases:** PostgreSQL, MySQL, MS SQL Server
-- **Tools:** Tableau, Looker, Jupyter, AWS EC2, Lambda
-- **Concepts:** Data Analysis, RDBMS, API Development, Cloud Infrastructure
+- **paradigms**: Object-Oriented Programming, Procedural Language, Modular Language
 
----
-
-Thanks for visiting! Feel free to explore my repositories or reach out if you'd like to collaborate.
