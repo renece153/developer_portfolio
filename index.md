@@ -53,11 +53,9 @@ Details:
 - SQL Scripts:
   1. **Local Database**: Contains all Triggers, View, Functions and Stored Procedure running in the cloud database
   2. SQL Script Target: Database Statistics and Health are monitored by collecting data; Python Script triggers stored procedure
-    a. **MySQL**: Installs stored procedure in MySQL Database
-
-    b. **Postgres**: Installs stored procedure in PG Database
-  
-    c. **SQL Server**: Installs several stored procedure in SQL Server Database
+     1. **MySQL**: Installs stored procedure in MySQL Database
+     2. **Postgres**: Installs stored procedure in PG Database
+     3. **SQL Server**: Installs several stored procedure in SQL Server Database
 
 - Webpage: Contains the front-end of the system that is visible in the cloud
   1. **CSS**: All css files associated in the website
