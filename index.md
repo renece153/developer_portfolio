@@ -48,16 +48,14 @@ ZIP File containing all the code for this project. File details are seen below:
 </pre>
 
 Details:
-- **Python Scripts**: Interact with SQL and PHP to: send notification email using mailgun, perform backend reading and ETL between target database and cloud database (MySQL).
-
-- SQL Scripts:
+1. **Python Scripts**: Interact with SQL and PHP to: send notification email using mailgun, perform backend reading and ETL between target database and cloud database (MySQL).
+2. **SQL Scripts**:
   1. **Local Database**: Contains all Triggers, View, Functions and Stored Procedure running in the cloud database
   2. SQL Script Target: Database Statistics and Health are monitored by collecting data; Python Script triggers stored procedure
      1. **MySQL**: Installs stored procedure in MySQL Database
      2. **Postgres**: Installs stored procedure in PG Database
      3. **SQL Server**: Installs several stored procedure in SQL Server Database
-
-- Webpage: Contains the front-end of the system that is visible in the cloud
+3. Webpage: Contains the front-end of the system that is visible in the cloud
   1. **CSS**: All css files associated in the website
   2. **Webpages**: All HTML files associated in the website
   3. **Images**: All images that will be reference by the website
