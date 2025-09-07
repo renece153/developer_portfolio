@@ -17,7 +17,7 @@ This portofolio is to show case my versitility in programming, system design thi
 Major Projects are complex system integrations that requires at least two different systems interacting. Usually, it takes 6 months to develop, test and set up.
 
 ---
-### 🗃️ Management Information System for Database Monitoring
+### 🗃️ Asset Management System for Database Management Systems
 - **Summary:** Modify and retrofit inventory management systems to function with relational database systems through a web interface designed for operation on a Windows server (deployed via AWS). The programming languages involved include SQL, Python, JavaScript, PHP, CSS, and HTML. Regrettably, the system was deactivated due to accumulating expenses. However, all documentation remains accessible below.
 
 - **Skills:** _SQL, Python, JavaScript, PHP, HTML/CSS, AWS, Cloud, Modular, OOP, Web Development_
