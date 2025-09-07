@@ -26,7 +26,9 @@ Major Projects are complex system integrations that requires at least two differ
 
 Technical Documentation is available at Zenodo as its my master's thesis.
 
-🔗 [Downlodable Code]([https://zenodo.org/records/8176445](https://drive.google.com/file/d/146v9wPhX5-dBpkKzB4cDE1c8oXRO9dtK/view?usp=sharing))
+🔗 [Downlodable Code](https://drive.google.com/file/d/146v9wPhX5-dBpkKzB4cDE1c8oXRO9dtK/view?usp=sharing)
+
+ZIP File containing all the code for this project. File details are seen below:
 
 <pre>
 ├── lib
