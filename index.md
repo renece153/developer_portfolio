@@ -14,15 +14,17 @@ This portofolio is to show case my versitility in programming, system design thi
 ---
 ## 📓 Major Projects
 
-Major Projects are complex system integrations that requires at least two different systems interacting.
+Major Projects are complex system integrations that requires at least two different systems interacting. Usually, it takes 6 months to develop, test and set up.
 
 ---
 ### 🗃️ Management Information System for Database Monitoring
-- **Summary:** Modify and retrofit inventory management systems to function with relational database systems through a web interface designed for operation on a Windows server (deployed via AWS). The programming languages involved include SQL, Python, JavaScript, PHP, CSS, and HTML. Regrettably, the system was deactivated due to accumulating expenses. However, all documentation remains accessible below.
+- **Summary:**
 
-- **Skills:** _SQL, Python, JavaScript, PHP, HTML/CSS_
+Modify and retrofit inventory management systems to function with relational database systems through a web interface designed for operation on a Windows server (deployed via AWS). The programming languages involved include SQL, Python, JavaScript, PHP, CSS, and HTML. Regrettably, the system was deactivated due to accumulating expenses. However, all documentation remains accessible below.
 
-🔗 [Full Teachnical Documentation](https://zenodo.org/records/8176445)
+- **Skills:** _SQL, Python, JavaScript, PHP, HTML/CSS, AWS, Cloud, Modular, OOP, Web Development_
+
+📓 [Full Teachnical Documentation](https://zenodo.org/records/8176445)
 
 Technical Documentation is available at Zenodo as its my master's thesis.
 
@@ -65,25 +67,34 @@ Details:
 ---
 ## Other Academic Projects
 
-Major Projects are complex system integrations that requires at least two different systems interacting.
+These projects are done in short term and are here to show my ability to code in different languages.
 
 ---
 
 ### 🏥 Health Information Management System
-- **Summary:** Built a mobile-accessible API system using AWS Lambda and MS SQL Server.  
-- **Tools:** _AWS Lambda, Python, T-SQL _
-- **Skills:** _ API Development, Cloud Integration, Mobile Backend_
+- **Summary:**
 
-🔗 [Full Documentation](https://drive.google.com/file/d/17rDCuWskhmumeTC5LrPi2npBAy99ulI4/view?usp=drive_link)
+A mobile-accessible API system using AWS Lambda and stored in MS SQL Server. Uses AWS lambda to collect and display data.
+
+- **Skills:** _ API Development, Cloud Integration, Mobile Backend, _AWS Lambda_
+
+📓 [Full Documentation](https://drive.google.com/file/d/17rDCuWskhmumeTC5LrPi2npBAy99ulI4/view?usp=sharing)
+
+Full Technical Documentation of the project.
+
+🔗 [Downloadable Code](https://drive.google.com/file/d/16hxDXGyygU-QT_fXJdRY7Yz7G7EyZLZx/view?usp=drive_link)
+
+ZIP File containing all the code for this project.
 
 ---
 
 ### 🤖 Telegram Bot Integration
-- **Summary:** Created a Telegram bot hosted on AWS EC2, integrated with MySQL and APIs for messaging.  
-- **Tools:** _Python, AWS EC2, MySQL, Twilio, Mailgun _
-- **Skills:** _Bot Development, API Integration, Cloud Deployment  _
+- **Summary:**
+Hosted on an AWS EC2 instance, enabling interaction with a MySQL database. It also interfaces with a Telegram Bot and utilizes the Twilio and Mailgun APIs for sending text messages and emails, respectively. The server was disabled, but documentation and demonstration remain accessible.
 
-🔗 [Github Page](https://renece153.github.io/telegram_bot/)
+- **Skills:** _Bot Development, API Integration, Cloud Deployment, Python, AWS EC2, MySQL, Twilio, Mailgun_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oOTjHrp3N9Q?si=caJDTghAOuX7fwg4" frameborder="0" allowfullscreen></iframe>
 
 ---
 
