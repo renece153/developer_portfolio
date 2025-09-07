@@ -55,12 +55,12 @@ Details:
      1. **MySQL**: Installs stored procedure in MySQL Database
      2. **Postgres**: Installs stored procedure in PG Database
      3. **SQL Server**: Installs several stored procedure in SQL Server Database
-3. Webpage: Contains the front-end of the system that is visible in the cloud
-  1. **CSS**: All css files associated in the website
-  2. **Webpages**: All HTML files associated in the website
-  3. **Images**: All images that will be reference by the website
-  4. **Javascript**: JS Script that performs real-time operation such as validation before writing it in the local database
-  5. **PHP**: Connector between HTML and Java to local database (Source)
+3. **Webpage**: Contains the front-end of the system that is visible in the cloud
+   1. **CSS**: All css files associated in the website
+   2. **Webpages**: All HTML files associated in the website
+   3. **Images**: All images that will be reference by the website
+   4. **Javascript**: JS Script that performs real-time operation such as validation before writing it in the local database
+   5. **PHP**: Connector between HTML and Java to local database (Source)
 
 ---
 ## Other Academic Projects
