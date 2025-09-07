@@ -19,10 +19,55 @@ Major Projects are complex system integrations that requires at least two differ
 ---
 ### 🗃️ Management Information System for Database Monitoring
 - **Summary:** Modify and retrofit inventory management systems to function with relational database systems through a web interface designed for operation on a Windows server (deployed via AWS). The programming languages involved include SQL, Python, JavaScript, PHP, CSS, and HTML. Regrettably, the system was deactivated due to accumulating expenses. However, all documentation remains accessible below.
+
 - **Skills:** _SQL, Python, JavaScript, PHP, HTML/CSS_
+
 🔗 [Full Teachnical Documentation](https://zenodo.org/records/8176445)
 
 Technical Documentation is available at Zenodo as its my master's thesis.
+
+🔗 [Downlodable Code]([https://zenodo.org/records/8176445](https://drive.google.com/file/d/146v9wPhX5-dBpkKzB4cDE1c8oXRO9dtK/view?usp=sharing))
+
+<pre>
+├── lib
+├── python_scripts
+  ├── automated_run.py
+  ├── local_db_connection.py
+  ├── log_info.py
+  ├── mailer.py
+  ├── mysql_connector_class.py
+  ├── mysql_extract_data.py
+  ├── oracle_extract_data.py
+  ├── pg_extract_data.py
+  ├── py_open_sql_scripts.py
+  ├── pydbc_initial_con.py
+  ├── python_connector_class.py
+  ├── python_db_connection.py
+  ├── run_manual.py
+  ├── run_script.py
+  ├── sql_server_extract_data.py
+├── sql_scripts
+  ├── local database
+    ├── all triggers.sql
+    ├── all_stored_procedure_&_function.sql
+    ├── all_tables.sql
+    ├── all_view_tables.sql
+  ├── sql_scripts_target_db
+    ├── my-sql
+      ├── install-mysql-sp.sql
+    ├── postgres
+      ├── install-db-procedure.sql
+    ├── sql-server
+      ├── install-sp-dbims-check-installed-sp.sql
+      ├── install-sp-dbims-check-sql-agent-and-jobs.sql
+      ├── install-sp-dbims-extract-backup-info.sql
+      ├── install-sp-dbims-extract-log-and-data-info.sql
+      ├── install-sp-dbims-extract-memory-capacity-sp.sql
+      ├── install-sp-display-connection-details.sql
+      ├── install-sp-extract-growth-rate.sql
+├── webpage
+</pre>
+
 
 ---
 ## Other Academic Projects
